@@ -1,0 +1,15 @@
+Tools and libraries used in the project:
+
+Python
+
+SpeechRecognition
+
+PyAudio / Microphone Input
+
+pyttsx3 (Text-to-Speech)
+
+datetime / webbrowser modules
+
+API integrations (optional: Weather, News, etc.)
+
+Tkinter (if GUI used)
