@@ -1,0 +1,6 @@
+leo_voice_assistant/
+├── main.py                # main script to run the assistant
+├── utils.py               # helper utilities (speech recognition, TTS, etc.)
+├── requirements.txt       # dependencies list
+├── README.md              # this file
+└── …                      # any other modules, config files, etc.
